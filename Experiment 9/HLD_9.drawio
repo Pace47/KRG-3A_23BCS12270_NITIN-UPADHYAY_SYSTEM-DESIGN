@@ -1,0 +1,218 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.2.9 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="02AU17e0UGN9ZcxN2HAX">
+    <mxGraphModel dx="2605" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1400" background="#0F172A" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-1" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HgwJ9Ukbf_A2hIMRifON-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="3741" />
+              <mxPoint x="340" y="3821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-2" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="270" y="3711" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="270" y="3771" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-4" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="270" y="3841" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-5" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="270" y="3911" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-6" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_device_gateway;" value="" vertex="1">
+          <mxGeometry height="110" width="117.53" x="461.23" y="3791" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;API Gateway &amp;amp; Load Balancers&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="420" y="3901" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="- Authentication" vertex="1">
+          <mxGeometry height="30" width="110" x="460" y="3931" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="- Authorization" vertex="1">
+          <mxGeometry height="30" width="100" x="461.23" y="3961" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="- Routing" vertex="1">
+          <mxGeometry height="30" width="70" x="466.23" y="3991" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="- Rate Limiting" vertex="1">
+          <mxGeometry height="30" width="100" x="465" y="4021" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;Users&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="3971" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-13" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540.0000000000001" y="3781" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="User Service" vertex="1">
+          <mxGeometry height="30" width="90" x="660" y="3631" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-15" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HgwJ9Ukbf_A2hIMRifON-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="3601" />
+              <mxPoint x="629" y="3601" />
+              <mxPoint x="629" y="3602" />
+            </Array>
+            <mxPoint x="680.3360000000002" y="3602.1499999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="3451" />
+            </Array>
+            <mxPoint x="704" y="3571" as="sourcePoint" />
+            <mxPoint x="880" y="3450.9750501319268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="1. User Registration&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="130" x="520" y="3571" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Registration: Data Saving in DB" vertex="1">
+          <mxGeometry height="30" width="190" x="680" y="3421" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.914;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" target="HgwJ9Ukbf_A2hIMRifON-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="919" y="3541" />
+              <mxPoint x="733" y="3541" />
+              <mxPoint x="733" y="3582" />
+            </Array>
+            <mxPoint x="919.0000000000002" y="3498.900645983078" as="sourcePoint" />
+            <mxPoint x="732.9920000000002" y="3605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-20" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="2. Logging" vertex="1">
+          <mxGeometry height="30" width="80" x="536.23" y="3601" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-21" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Check user&#39;s credentials" vertex="1">
+          <mxGeometry height="30" width="150" x="740" y="3469" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-22" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="HTTP Response: User Verified" vertex="1">
+          <mxGeometry height="30" width="190" x="720" y="3511" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-23" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="JWT for session&lt;br&gt;management" vertex="1">
+          <mxGeometry height="40" width="110" x="540" y="3641" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;User DB&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="950" y="3445" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-25" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="HgwJ9Ukbf_A2hIMRifON-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810.1799999999998" y="3766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-51" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HgwJ9Ukbf_A2hIMRifON-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="3912.7142857142862" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-59" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="HgwJ9Ukbf_A2hIMRifON-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-63" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="HgwJ9Ukbf_A2hIMRifON-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="4291" />
+            </Array>
+            <mxPoint x="570" y="4511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="297" width="195" x="425" y="3764" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-27" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="64.5" width="60" x="890" y="3434.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-28" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.users;" value="" vertex="1">
+          <mxGeometry height="60" width="70" x="670" y="3571" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-38" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HgwJ9Ukbf_A2hIMRifON-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="3771" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-37" parent="1" style="rounded=1;fillColor=#7C2D12;fontColor=#FFEDD5;strokeColor=#F97316;" value="Movie Service" vertex="1">
+          <mxGeometry height="80" width="170" x="800" y="3731" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-40" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;whiteSpace=wrap;" value="Search" vertex="1">
+          <mxGeometry height="30" width="150" x="1150" y="3761" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-44" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Searched some Video" vertex="1">
+          <mxGeometry height="30" width="140" x="1344" y="3741" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-45" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="30" width="30" x="1325" y="3741" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;Elastic&amp;nbsp;&lt;br&gt;Search&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="75" x="1550" y="3726" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-48" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-40" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.587;exitDx=0;exitDy=0;exitPerimeter=0;" target="HgwJ9Ukbf_A2hIMRifON-46" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1610" y="3841" as="sourcePoint" />
+            <mxPoint x="1660" y="3791" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-49" parent="1" style="shape=cylinder;fillColor=#111827;fontColor=#E5E7EB;strokeColor=#6B7280;" value="Movie DB" vertex="1">
+          <mxGeometry height="100" width="90" x="1770" y="3726" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-50" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="3770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-53" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HgwJ9Ukbf_A2hIMRifON-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="3991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-52" parent="1" style="rounded=1;fillColor=#7F1D1D;fontColor=#FEE2E2;strokeColor=#EF4444;" value="Booking Service" vertex="1">
+          <mxGeometry height="80" width="170" x="830" y="3876" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-62" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="HgwJ9Ukbf_A2hIMRifON-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-54" parent="1" style="rounded=1;fillColor=#064E3B;fontColor=#D1FAE5;strokeColor=#10B981;fontStyle=1" value="3rd Party Payment Service" vertex="1">
+          <mxGeometry height="80" width="170" x="1290" y="4011" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-60" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HgwJ9Ukbf_A2hIMRifON-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-55" parent="1" style="rounded=1;fillColor=#4C1D95;fontColor=#EDE9FE;strokeColor=#8B5CF6;" value="Payment Service" vertex="1">
+          <mxGeometry height="80" width="170" x="750" y="4051" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-56" parent="1" style="shape=cylinder;fillColor=#111827;fontColor=#E5E7EB;strokeColor=#6B7280;" value="Payment DB" vertex="1">
+          <mxGeometry height="100" width="90" x="1300" y="4251" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-58" edge="1" parent="1" source="HgwJ9Ukbf_A2hIMRifON-55" style="endArrow=block;strokeColor=#94A3B8;" target="HgwJ9Ukbf_A2hIMRifON-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-61" parent="1" style="shape=cylinder;fillColor=#111827;fontColor=#E5E7EB;strokeColor=#6B7280;" value="Booking DB" vertex="1">
+          <mxGeometry height="100" width="90" x="1670" y="3956" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-64" parent="1" style="rounded=1;fillColor=#064E3B;fontColor=#D1FAE5;strokeColor=#10B981;fontStyle=1" value="Notification Service" vertex="1">
+          <mxGeometry height="80" width="170" x="670" y="4261" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Experiment 9:&lt;/font&gt;&lt;strong data-start=&quot;107&quot; data-end=&quot;208&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Design and Implementation of an Online Movie Ticket Booking System using System Design Principles&lt;/strong&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="1730" x="180" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-67" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h1 data-start=&quot;108&quot; data-end=&quot;133&quot;&gt;Functional Requirements&lt;/h1&gt;&#xa;&lt;p data-start=&quot;135&quot; data-end=&quot;198&quot;&gt;The functional requirements describe what the system should do.&lt;/p&gt;&#xa;&lt;ol data-start=&quot;200&quot; data-end=&quot;1455&quot;&gt;&#xa;&lt;li data-start=&quot;200&quot; data-end=&quot;355&quot;&gt;&#xa;User Management&lt;br data-start=&quot;218&quot; data-end=&quot;221&quot;&gt;&#xa;The system should allow users to register, log in, and manage their profiles. Users should also be able to view their booking history.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;357&quot; data-end=&quot;551&quot;&gt;&#xa;Movie and Show Management&lt;br data-start=&quot;385&quot; data-end=&quot;388&quot;&gt;&#xa;The system should allow users to browse movies based on city, date, genre, and language. It should display available theatres and show timings for selected movies.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;553&quot; data-end=&quot;698&quot;&gt;&#xa;Search Functionality&lt;br data-start=&quot;576&quot; data-end=&quot;579&quot;&gt;&#xa;The system should provide a search feature to find movies based on different filters such as name, genre, and location.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;700&quot; data-end=&quot;939&quot;&gt;&#xa;Booking Management&lt;br data-start=&quot;721&quot; data-end=&quot;724&quot;&gt;&#xa;The system should allow users to select a movie, choose a theatre and show, and select seats. It should temporarily lock the selected seats to prevent double booking and confirm the booking after successful payment.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;941&quot; data-end=&quot;1159&quot;&gt;&#xa;Payment Processing&lt;br data-start=&quot;962&quot; data-end=&quot;965&quot;&gt;&#xa;The system should support multiple payment methods such as credit/debit cards, UPI, and wallets. It should handle both successful and failed transactions and initiate refunds in case of failure.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1161&quot; data-end=&quot;1304&quot;&gt;&#xa;Notification System&lt;br data-start=&quot;1183&quot; data-end=&quot;1186&quot;&gt;&#xa;The system should send notifications to users regarding booking confirmations and payment status through email or SMS.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1306&quot; data-end=&quot;1455&quot;&gt;&#xa;Admin Functionality&lt;br data-start=&quot;1328&quot; data-end=&quot;1331&quot;&gt;&#xa;The system should allow administrators to add, update, or delete movies, manage theatres and shows, and view system reports.&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="810" width="560" x="450" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-68" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h1 data-start=&quot;1141&quot; data-end=&quot;1170&quot;&gt;Non-Functional Requirements&lt;/h1&gt;&#xa;&lt;ol data-start=&quot;1172&quot; data-end=&quot;1615&quot;&gt;&#xa;&lt;li data-start=&quot;1172&quot; data-end=&quot;1268&quot;&gt;&#xa;Target Scale: The system should support millions of users simultaneously during peak hours.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1270&quot; data-end=&quot;1444&quot;&gt;&#xa;CAP Theorem:&#xa;&lt;ul data-start=&quot;1291&quot; data-end=&quot;1444&quot;&gt;&#xa;&lt;li data-start=&quot;1291&quot; data-end=&quot;1367&quot;&gt;&#xa;Strong consistency is required for seat booking to avoid double booking.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1371&quot; data-end=&quot;1444&quot;&gt;&#xa;High availability should be maintained for browsing movies and shows.&#xa;&lt;/li&gt;&#xa;&lt;/ul&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1446&quot; data-end=&quot;1615&quot;&gt;&#xa;Latency:&#xa;&lt;ul data-start=&quot;1463&quot; data-end=&quot;1615&quot;&gt;&#xa;&lt;li data-start=&quot;1463&quot; data-end=&quot;1533&quot;&gt;&#xa;Movie search results should be returned within a few milliseconds.&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1537&quot; data-end=&quot;1615&quot;&gt;&#xa;Booking and payment confirmation should be completed within a few seconds.&#xa;&lt;/li&gt;&#xa;&lt;/ul&gt;&#xa;&lt;/li&gt;&#xa;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="510" width="560" x="465" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="HgwJ9Ukbf_A2hIMRifON-69" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h1 data-start=&quot;1622&quot; data-end=&quot;1637&quot;&gt;Core Entities&lt;/h1&gt;&#xa;&lt;ol data-start=&quot;1639&quot; data-end=&quot;1718&quot;&gt;&#xa;&lt;li data-start=&quot;1639&quot; data-end=&quot;1648&quot;&gt;&#xa;User&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1649&quot; data-end=&quot;1659&quot;&gt;&#xa;Movie&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1660&quot; data-end=&quot;1672&quot;&gt;&#xa;Theatre&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1673&quot; data-end=&quot;1682&quot;&gt;&#xa;Show&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1683&quot; data-end=&quot;1692&quot;&gt;&#xa;Seat&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1693&quot; data-end=&quot;1705&quot;&gt;&#xa;Booking&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1706&quot; data-end=&quot;1718&quot;&gt;&#xa;Payment&#xa;&lt;/li&gt;&#xa;&lt;/ol&gt;&#xa;&lt;hr data-start=&quot;1720&quot; data-end=&quot;1723&quot;&gt;&#xa;&lt;h1 data-start=&quot;1725&quot; data-end=&quot;1740&quot;&gt;API Endpoints&lt;/h1&gt;&#xa;&lt;p data-start=&quot;1742&quot; data-end=&quot;1747&quot;&gt;User:&lt;/p&gt;&#xa;&lt;ol data-start=&quot;1749&quot; data-end=&quot;2357&quot;&gt;&#xa;&lt;li data-start=&quot;1749&quot; data-end=&quot;1843&quot;&gt;&#xa;GET: /api/movies?city=&amp;amp;date=&lt;br data-start=&quot;1780&quot; data-end=&quot;1783&quot;&gt;&#xa;[Fetch list of movies and shows based on city and date]&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1845&quot; data-end=&quot;1921&quot;&gt;&#xa;GET: /api/shows/{movieId}&lt;br data-start=&quot;1873&quot; data-end=&quot;1876&quot;&gt;&#xa;[Fetch show timings and theatre details]&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1923&quot; data-end=&quot;1992&quot;&gt;&#xa;GET: /api/seats/{showId}&lt;br data-start=&quot;1950&quot; data-end=&quot;1953&quot;&gt;&#xa;[Fetch available seats for a show]&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1994&quot; data-end=&quot;2142&quot;&gt;&#xa;&lt;p data-start=&quot;1997&quot; data-end=&quot;2080&quot;&gt;POST: /api/booking&lt;br data-start=&quot;2015&quot; data-end=&quot;2018&quot;&gt;&#xa;Request Body:&lt;br data-start=&quot;2034&quot; data-end=&quot;2037&quot;&gt;&#xa;{&lt;br data-start=&quot;2041&quot; data-end=&quot;2044&quot;&gt;&#xa;showId,&lt;br data-start=&quot;2056&quot; data-end=&quot;2059&quot;&gt;&#xa;seatIds&lt;br data-start=&quot;2071&quot; data-end=&quot;2074&quot;&gt;&#xa;}&lt;/p&gt;&#xa;&lt;p data-start=&quot;2085&quot; data-end=&quot;2142&quot;&gt;Response:&lt;br data-start=&quot;2094&quot; data-end=&quot;2097&quot;&gt;&#xa;{&lt;br data-start=&quot;2101&quot; data-end=&quot;2104&quot;&gt;&#xa;bookingId,&lt;br data-start=&quot;2119&quot; data-end=&quot;2122&quot;&gt;&#xa;status&lt;br data-start=&quot;2133&quot; data-end=&quot;2136&quot;&gt;&#xa;}&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;2144&quot; data-end=&quot;2290&quot;&gt;&#xa;&lt;p data-start=&quot;2147&quot; data-end=&quot;2239&quot;&gt;POST: /api/payment&lt;br data-start=&quot;2165&quot; data-end=&quot;2168&quot;&gt;&#xa;Request Body:&lt;br data-start=&quot;2184&quot; data-end=&quot;2187&quot;&gt;&#xa;{&lt;br data-start=&quot;2191&quot; data-end=&quot;2194&quot;&gt;&#xa;bookingId,&lt;br data-start=&quot;2209&quot; data-end=&quot;2212&quot;&gt;&#xa;paymentMethod&lt;br data-start=&quot;2230&quot; data-end=&quot;2233&quot;&gt;&#xa;}&lt;/p&gt;&#xa;&lt;p data-start=&quot;2244&quot; data-end=&quot;2290&quot;&gt;Response:&lt;br data-start=&quot;2253&quot; data-end=&quot;2256&quot;&gt;&#xa;{&lt;br data-start=&quot;2260&quot; data-end=&quot;2263&quot;&gt;&#xa;paymentStatus&lt;br data-start=&quot;2281&quot; data-end=&quot;2284&quot;&gt;&#xa;}&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;2292&quot; data-end=&quot;2357&quot;&gt;&#xa;GET: /api/bookings/history&lt;br data-start=&quot;2321&quot; data-end=&quot;2324&quot;&gt;&#xa;[Fetch user booking history]&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="1680" width="370" x="490" y="1520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
